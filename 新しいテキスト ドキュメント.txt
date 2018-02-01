@@ -1,0 +1,12 @@
+123  ・・・　数字
+'あ'　・・・　文字
+`db1` ・・・　テーブル名
+
+insert into sith values(一人分のデータ1,データ2,データ3);
+
+insert into sith values(一人分のデータ1,データ2,データ3);
+
+insert into sith values
+(一人分のデータ1,データ2,データ3),
+``,
+``, ;
